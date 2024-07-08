@@ -1,4 +1,4 @@
-public class ch3_9 {
+public class ch3_09 {
     public static void main(String[] args) {
         
         char c1= 'G' ;
